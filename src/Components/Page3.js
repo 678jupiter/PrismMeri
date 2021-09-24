@@ -33,7 +33,7 @@ function Page3() {
             </div>
           </div>
         </div>
-        <div className="sm:w-1.5">
+        <div className="">
           <img src={Red} alt="" />
         </div>
       </div>
